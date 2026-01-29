@@ -55,7 +55,7 @@ export const Footer = () => {
               {[
                 { icon: Phone, text: "+971 52 457 8336", href: "tel:+971524578336" },
                 { icon: Mail, text: "info@hirerightuae.com", href: "mailto:info@hirerightuae.com" },
-                { icon: MapPin, text: "Business Bay, Dubai, UAE", href: null },
+                { icon: MapPin, text: "Deira, Dubai, UAE", href: null },
               ].map((item) => (
                 <motion.div
                   key={item.text}
